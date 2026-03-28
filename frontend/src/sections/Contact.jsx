@@ -5,7 +5,7 @@ import { phonePeQR } from '../assets/images.js';
 const INFO = [
   { icon:'HQ', label:'Head Office', value:'Plot No. 85, V. Puram, PO - Sainikpuri, Hyderabad - 500 094' },
   { icon:'BR', label:'Branch Office', value:'H. No. 16, ARB Road, Panbazar, Guwahati - 781 001' },
-  { icon:'PH', label:'Phone', phones:['9000786099', '9707702864', '7000786099', '9182602529'] },
+  { icon:'PH', label:'Phone', phones:['9000786099', '9707702864', '7002798226', '9182602529'] },
   { icon:'EM', label:'Email', email:'sloka.northeast@gmail.com' },
 ];
 
